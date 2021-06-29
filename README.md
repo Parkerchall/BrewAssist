@@ -5,10 +5,32 @@ BrewAssist will be an app that helps you with one of the more challenging things
 ### Wireframes https://wireframe.cc/pro/pp/46e8d5916453922
 ### Component Hierarchy  https://my.visme.co/view/768n9vy7-project-organizational-chart
 ### API https://api.airtable.com/v0/appS2k6dz8DZrNMkH/potions?maxRecords=3&view=Grid%20view
+
+#### Sample response- 
+```{
+    "records": [
+        {
+            "id": "recr66cyycua9diJp",
+            "fields": {
+                "name": "Healing",
+                "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5b/Invicon_Potion_of_Healing.gif/revision/latest/scale-to-width-down/32?cb=202005172148...",
+                "itemID": "potionOfHealing",
+                "effectPositive": true,
+                "canEnhance": true
+            },
+            "createdTime": "2021-06-29T14:26:56.000Z"
+        },
+        {
+            "id": "reclFEkLj7qhjWaQh",
+            "fields": {
+                "name": "Fire Resistance",
+                "img":
+            }
+```
 ### MVP
-The MVP for this project is to have a website that is able to pull from an API to be able to show how to brew a potion based on user input. It will also have a feature for people to post images and comments of anything cool they've done in minecraft!
+The MVP for this project is to have a website that is able to pull from an API to be able to show how to brew a potion based on user input. The user input will be a searchbar that is able to search for potions and come up with a recipe for crafting. There will also be a list of comments that users will be able to get and post to. There will be 3 Reference tabs on the top. The functionality of the tabs will be to get to navigate to the comments, potion search bar, and my post mvp which is going to be an enchanting search bar It will also have a feature for people to post images and comments of anything cool they've done in minecraft!
 ### Post MVP
-After I accomplish my post MVP my goal is to be able to be able to improve the user input, I want to be able to add more functionality to the website and hopefully include a section for enchanting items. 
+After I accomplish my post MVP my goal is to be able to be able to improve the user input, I want to be able to add more functionality to the website and hopefully include a section for enchanting items. The way I plan on accomplishing this is by adding enchanting items to the same API on a different table, and then creating a new section of the app with a search bar that allows you to search weapons and list the possible enchantments and uses of those enchantments.
 ### Project Schedule
 | Date    |                     Goal                       |
 | ------- | ---------------------------------------------- |
@@ -22,6 +44,7 @@ After I accomplish my post MVP my goal is to be able to be able to improve the u
 | July 6  | Final comments, Problems, or things to improve |
 | July 7  | Project Presentation                           |
 ### TimeFrames
+| Item                 |        |
 | -------------------- | ------ |
 | CSS                  | 3 hrs  |
 | JavaScript           | 3 hrs  |
