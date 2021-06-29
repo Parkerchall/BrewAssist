@@ -4,11 +4,11 @@
 BrewAssist will be an app that helps you with one of the more challenging things to do in Minecraft, brewing. When playing minecraft there are many situations where potions come in handy, but you never know how to brew them. This app will change all of that, BrewAssist is going to be a one stop shop when it comes to potions. It's going to be able to tell you where to get the items for brewing, how to brew the potions, and the best way to use all the potions.
 ### Wireframes https://wireframe.cc/pro/pp/46e8d5916453922
 ### Component Hierarchy  https://my.visme.co/view/768n9vy7-project-organizational-chart
-### API https://minecraft-ids.grahamedgecombe.com/
+### API https://api.airtable.com/v0/appS2k6dz8DZrNMkH/potions?maxRecords=3&view=Grid%20view
 ### MVP
-The MVP for this project is to have a website that is able to pull from an API to be able to show how to brew a potion based on user input
+The MVP for this project is to have a website that is able to pull from an API to be able to show how to brew a potion based on user input. It will also have a feature for people to post images and comments of anything cool they've done in minecraft!
 ### Post MVP
-After I accomplish my post MVP my goal is to be able to be able to improve the user input, I want to be able to add more functionality to the website and hopefully include a section for enchanting items
+After I accomplish my post MVP my goal is to be able to be able to improve the user input, I want to be able to add more functionality to the website and hopefully include a section for enchanting items. 
 ### Project Schedule
 | Date    |                     Goal                       |
 | ------- | ---------------------------------------------- |
@@ -27,6 +27,7 @@ After I accomplish my post MVP my goal is to be able to be able to improve the u
 | JavaScript           | 3 hrs  |
 | React components     | 3 hrs  |
 | Axios/ API           | 3 hrs  |
+| API additions        | 2 hrs  |
 | API Troubleshooting  | 3 hrs  |
 | CSS touch up         | 2 hrs  |
 | Code improvement     | 2 hrs  |
@@ -35,7 +36,7 @@ After I accomplish my post MVP my goal is to be able to be able to improve the u
 | MVP                  | 3 hrs  |
 | Post MVP             | 3 hrs  |
 | -------------------- | ------ |
-| Total time           | 31 hrs |
+| Total time           | 33 hrs |
 ## SWOT Analysis
 #### Strength
 One of  strengths has always been styling, not just in coding. I'm an artist by heart and i'm hoping that reflects itself well in my project
