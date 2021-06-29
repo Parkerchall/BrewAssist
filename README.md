@@ -22,7 +22,6 @@ After I accomplish my post MVP my goal is to be able to be able to improve the u
 | July 6  | Final comments, Problems, or things to improve |
 | July 7  | Project Presentation                           |
 ### TimeFrames
-| -------------------- | ------ |
 | CSS                  | 3 hrs  |
 | JavaScript           | 3 hrs  |
 | React components     | 3 hrs  |
@@ -34,7 +33,6 @@ After I accomplish my post MVP my goal is to be able to be able to improve the u
 | Research             | 3 hrs  |
 | MVP                  | 3 hrs  |
 | Post MVP             | 3 hrs  |
-| -------------------- | ------ |
 | Total time           | 31 hrs |
 ## SWOT Analysis
 #### Strength
