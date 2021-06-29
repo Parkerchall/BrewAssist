@@ -12,8 +12,8 @@ After I accomplish my post MVP my goal is to be able to be able to improve the u
 ### Project Schedule
 | Date    |                     Goal                       |
 | ------- | ---------------------------------------------- |
-| June 29 | Project Pitch, Set up base react app           |
-| June 30 | Set up api and reactive javascript icons       |
+| June 29 | Project Pitch, research API capability         |
+| June 30 | Set up api and react app                       |
 | July 1  | CSS Styling                                    |
 | July 2  | Finish MVP                                     |
 | July 3  | Clean up any unnecessary code                  |
